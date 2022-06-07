@@ -21,6 +21,9 @@ NPCの出す手は完全ランダムで偏りは一切ありません。
 このじゃんけんゲームは個人や団体で仕様を変えて再配布をすることを許可します。
 ただし、再配布をするときには、このGitHubのリンクを添付して元のソースがわかるようにしてください。
 また、このじゃんけんゲームの仕様を変えて発生した損害については、保証しかねます。
+ショートカットの実行中(じゃんけんゲームの途中)にショートカットのアクション以外のところを操作するとショートカットが中断されてしまいます。
+また、途中でショートカットを中断すると、最後の結果は表示されません。
+無理のない回数でショートカットの回数指定を行うことをおすすめします。
 
 ## これまでの更新情報
 
@@ -52,6 +55,8 @@ Also, the sharing function that allows you to send the results of this rock-pape
 This rock-paper-scissors game allows individuals and groups to change the specifications and redistribute it.
 However, when redistributing, please attach this GitHub link so that you can see the original source.
 In addition, we cannot guarantee any damage caused by changing the specifications of this rock-paper-scissors game.
+Also, if you interrupt the shortcut in the middle, the final result will not be displayed.
+We recommend that you specify the number of shortcuts within a reasonable number of times.
 
 ## Update information so far
 
